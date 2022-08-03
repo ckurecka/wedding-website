@@ -15,9 +15,23 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Docs
         </a>
       </header>
+      <body>
+        <div>
+          Stephanie &nbsp; Chris
+        </div>
+        <div>
+          June 3, 2023
+        </div>
+        <div>
+          Dearborn, MI
+        </div>
+        <div>
+          More to come!
+        </div>
+      </body>
     </div>
   );
 }
