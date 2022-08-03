@@ -8,15 +8,19 @@ function App() {
       </header>
       <body className="main-body">
         <img src={lakePhoto} className="lake-photo" alt="Lake photo of the happy couple" />
+        <div className="div-body-spacing"></div>
         <div>
           Stephanie &amp; Chris
         </div>
+        <div className="div-body-spacing"></div>
         <div>
           June 3, 2023
         </div>
+        <div className="div-body-spacing"></div>
         <div>
           Dearborn, MI
         </div>
+        <div className="div-body-spacing"></div>
         <div>
           More to come!
         </div>
