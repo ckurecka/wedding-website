@@ -18,7 +18,7 @@ function App() {
         </div>
         <div className="div-body-spacing"></div>
         <div>
-          Dearborn, MI
+          Lovett Hall, Dearborn, MI
         </div>
         <div className="div-body-spacing"></div>
         <div>
