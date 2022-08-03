@@ -1,26 +1,15 @@
-import logo from './logo.svg';
+import lakePhoto from './images/edsel-eleanor-ford-house-grosse-pointe-engagement-photo-211.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Docs
-        </a>
       </header>
-      <body>
+      <body className="main-body">
+        <img src={lakePhoto} className="lake-photo" alt="Lake photo of the happy couple" />
         <div>
-          Stephanie &nbsp; Chris
+          Stephanie &amp; Chris
         </div>
         <div>
           June 3, 2023
