@@ -1,3 +1,9 @@
+# Wedding Website that could maybe be reused and adapted by others
+
+We're planning our wedding and decided to make our own React site for our guests to use. I figured there wasn't a good reason to not host it publicly on GitHub in case others want to use it as a template for their own weddings (or potentially other events).
+
+===
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
