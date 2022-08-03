@@ -2,6 +2,8 @@
 
 We're planning our wedding and decided to make our own React site for our guests to use. I figured there wasn't a good reason to not host it publicly on GitHub in case others want to use it as a template for their own weddings (or potentially other events).
 
+As of right now, we're using React, GitHub Pages, and the Node gh-pages module to publish updates.
+
 ===
 
 # Getting Started with Create React App
