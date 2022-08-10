@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       </header>
-      <body className="main-body">
+      <div className="main-body">
         <img src={lakePhoto} className="lake-photo" alt="Lake photo of the happy couple" />
         <div className="div-body-spacing"></div>
         <div>
@@ -24,7 +24,7 @@ function App() {
         <div>
           More to come!
         </div>
-      </body>
+      </div>
     </div>
   );
 }
