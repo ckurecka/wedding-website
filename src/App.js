@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
       </header>
       <div className="main-body">
-        <img src={lakePhoto} className="lake-photo" alt="Lake photo of the happy couple" />
+        <div className="header-image">
+          <img src={lakePhoto} className="lake-photo" alt="Lake photo of the happy couple" />
+        </div>
         <div className="div-body-spacing"></div>
         <div>
           Stephanie &amp; Chris
