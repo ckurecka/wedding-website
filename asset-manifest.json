@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb71c98f.css",
-    "main.js": "/static/js/main.9decebde.js",
+    "main.css": "/static/css/main.ac1234aa.css",
+    "main.js": "/static/js/main.59f4a95f.js",
     "static/js/787.b26ea9af.chunk.js": "/static/js/787.b26ea9af.chunk.js",
     "static/media/edsel-eleanor-ford-house-grosse-pointe-engagement-photo-211.jpg": "/static/media/edsel-eleanor-ford-house-grosse-pointe-engagement-photo-211.89a766b6f0590cb31791.jpg",
     "index.html": "/index.html",
-    "main.cb71c98f.css.map": "/static/css/main.cb71c98f.css.map",
-    "main.9decebde.js.map": "/static/js/main.9decebde.js.map",
+    "main.ac1234aa.css.map": "/static/css/main.ac1234aa.css.map",
+    "main.59f4a95f.js.map": "/static/js/main.59f4a95f.js.map",
     "787.b26ea9af.chunk.js.map": "/static/js/787.b26ea9af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb71c98f.css",
-    "static/js/main.9decebde.js"
+    "static/css/main.ac1234aa.css",
+    "static/js/main.59f4a95f.js"
   ]
 }
