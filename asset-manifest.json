@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c59c066.css",
-    "main.js": "/static/js/main.ecd6fcbd.js",
+    "main.css": "/static/css/main.81e6c90e.css",
+    "main.js": "/static/js/main.3017e048.js",
     "static/media/engagement-photo-166.jpg": "/static/media/engagement-photo-166.b6765808fece958f50de.jpg",
     "static/media/engagement-photo-179.jpg": "/static/media/engagement-photo-179.a66145f97a22c1d06147.jpg",
     "index.html": "/index.html",
-    "main.0c59c066.css.map": "/static/css/main.0c59c066.css.map",
-    "main.ecd6fcbd.js.map": "/static/js/main.ecd6fcbd.js.map"
+    "main.81e6c90e.css.map": "/static/css/main.81e6c90e.css.map",
+    "main.3017e048.js.map": "/static/js/main.3017e048.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c59c066.css",
-    "static/js/main.ecd6fcbd.js"
+    "static/css/main.81e6c90e.css",
+    "static/js/main.3017e048.js"
   ]
 }
