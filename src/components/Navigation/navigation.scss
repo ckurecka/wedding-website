@@ -18,8 +18,9 @@
     a {
       font-size: 14px;
       font-weight: 500;
-      color: navy;
+      color: rgb(12, 26, 135);
       text-decoration: none;
+      white-space: nowrap;
 
       &:hover {
         color: #8050eb;

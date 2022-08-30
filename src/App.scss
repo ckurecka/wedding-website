@@ -37,6 +37,7 @@
 
 .page {
   text-align: center;
+  padding: 40px 0;
   height: 100%;
   background-color: #a4c4cf;
   box-sizing: border-box;
@@ -52,6 +53,7 @@
 }
 .content {
   min-width: 320px;
+  padding: 0 20px;
 }
 
 @media (min-width: 768px) {
