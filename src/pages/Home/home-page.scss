@@ -4,6 +4,11 @@
   .content {
     h1 {
       margin-top: 0;
+
+      &.story-header {
+        margin-top: 32px;
+      }
+  
     }
 
   }
