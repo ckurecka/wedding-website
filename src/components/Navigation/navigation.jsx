@@ -8,10 +8,13 @@ const expandedNav = (
       <Link to="/">HOME</Link>
     </li>
     <li>
-      <Link to="/wedding-information">WEDDING & RECEPTION</Link>
+      <Link to="/wedding-information">WEDDING</Link>
     </li>
     <li>
       <Link to="/hotel-information">ACCOMODATIONS</Link>
+    </li>
+    <li>
+      <Link to="/gallery">GALLERY</Link>
     </li>
     {/* <li>
       <Link to="/registry">REGISTRY</Link>

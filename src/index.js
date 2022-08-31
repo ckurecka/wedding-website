@@ -6,6 +6,7 @@ import App from './App';
 import WeddingRegistry from './pages/Registry/registry-page';
 import HotelPage from './pages/Hotel/hotel-page';
 import VenuePage from './pages/Venue/venue-page';
+import GalleryPage from './pages/Gallery/gallery-page';
 // import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -16,6 +17,7 @@ root.render(
       <Route path="/registry" element={<WeddingRegistry />}></Route>
       <Route path="/hotel-information" element={<HotelPage />}></Route>
       <Route path="/wedding-information" element={<VenuePage />}></Route>
+      <Route path="/gallery" element={<GalleryPage />}></Route>
     </Routes>
       {/* <App /> */}
 

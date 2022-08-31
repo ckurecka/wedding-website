@@ -5,7 +5,8 @@ import './header.scss';
 const Header = () => {
   return (
     <div className="header-component">
-      <img src={headerImage} className="header"></img>
+      <div className="art"></div>
+      <img src={headerImage} className="header" alt="Stephanie & Chris"></img>
     </div>
   )
 };
